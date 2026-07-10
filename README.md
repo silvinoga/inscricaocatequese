@@ -1,35 +1,24 @@
-# Inscrição catequese - SANTA 
-INSCRIÇÃO DA CATEQUESE 2026
-<div class="topo">
+<div class="container">
 
-  <div class="logo">
-    
-  </div>
+<h2>Inscrições 2026</h2>
 
-  <h1>Envio de Imagens</h1>
-  <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
+<p>
+Clique no botão abaixo para preencher a ficha de inscrição.
+Será possível anexar fotos dos documentos diretamente pelo celular.
+</p>
 
-  <p class="subtitulo">
-    Preencha o formulário abaixo e anexe suas imagens com segurança.
-  </p>
+<a class="botao"
+href="https://docs.google.com/forms/d/e/1FAIpQLSeu0u3qLKD4I5ipR6NVN2OIZ42HOCZziEYk-KkS5a3ydiDwGw/viewform?embedded=true"
+target="_blank">
+
+FAZER INSCRIÇÃO
+
+</a>
 
 </div>
 
-<div class="conteudo">
-
-  <!-- SUBSTITUA PELO LINK DO SEU GOOGLE FORMS -->
-  <iframe 
-    src="https://docs.google.com/forms/d/e/1FAIpQLSeu0u3qLKD4I5ipR6NVN2OIZ42HOCZziEYk-KkS5a3ydiDwGw/viewform?embedded=true">
-    Carregando…
-  </iframe>
-
-  <div class="info">
-    <h3>Informações importantes</h3>
-
-    <p>
-      ✔ Permitido upload de imagens JPG, PNG e PDF.<br><br>
-
-      ✔ O Google pode solicitar login para envio dos arquivos.<br><br>
+</body>
+</html>
 
       ✔ Todos os arquivos enviados ficam armazenados no Google Drive.
     </p>
